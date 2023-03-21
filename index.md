@@ -32,6 +32,15 @@ Mimosa is a holistic web application tool that seeks to test users on their offe
 <li>Create challenges and submit pull requests</li>  
 </ul>
   
+  
+
+<h2>Licensing</h2>
+
+<p><a href="https://github.com/OWASP/SSO_Project/blob/master/LICENSE"><img src="https://img.shields.io/github/license/OWASP/SSO_Project.svg" alt="license" /></a></p>
+
+<p>This program is open souce under the GPL License. You can redistribute it and/or modify it
+under the terms of the <a href="https://github.com/OWASP/SSO_Project/blob/master/LICENSE">GPL License</a>.</p>
+
 <!--
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this texthould be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
