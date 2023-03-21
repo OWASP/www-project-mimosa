@@ -8,7 +8,7 @@ type: tool
 pitch: A very brief, one-line description of your project
 
 ---
-<img src="https://raw.githubusercontent.com/OWASP/www-project-mimosa/main/assets/images/mimosa.png" alt="Mimosa logo">
+<img width='100' height='100' src="https://raw.githubusercontent.com/OWASP/www-project-mimosa/main/assets/images/mimosa.png" alt="Mimosa logo">
 
 
 <h2>Description</h2>
