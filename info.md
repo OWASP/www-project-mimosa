@@ -7,7 +7,6 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
 
 ### Code Repository
 * [repo](#)
