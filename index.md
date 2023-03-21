@@ -27,9 +27,9 @@ Mimosa is a holistic web application tool that seeks to test users on their offe
 
 <p> Some of the ways you can contribute are as follows:</p>
 <ul>
-<li>Try it out!<li>
+<li>Try it out!</li>
 <li>Submit feedback via Github issues</li>
-<li>Create Challenges and submit pull requests</li>  
+<li>Create challenges and submit pull requests</li>  
 </ul>
   
 <!--
