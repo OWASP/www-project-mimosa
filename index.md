@@ -8,7 +8,8 @@ type: tool
 pitch: A very brief, one-line description of your project
 
 ---
-<img src="/assets/images/mimosa.png" alt="Mimosa logo">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-mimosa/main/assets/images/mimosa.png" alt="Mimosa logo">
+
 
 <h2>Description</h2>
 <p>
@@ -16,11 +17,23 @@ According to the United States Department of Homeland Security, the root cause o
 </p>
 
 <p>
-Mimosa is a holistic web application tool that seeks to test users on their offensive and defensive skills relating to programming, to not only educate users on secure coding but to also inculcate good programming habits.How Mimosa works is that challenges from various categories are provided to users in which they will be awarded points upon completion. These challenges come from a wide range of categories, from access control to cryptography, all requiring users to employ different techniques to solve them. Users can also earn badges when they complete challenges which motivate them to work harder to solve more challenges. Mimosa gamifies the user experience and has an intuitive interface. Challenges are also made to be fun with gamification elements to make it more fun for learners. We will also be incorporating short videos to teach some of the secure coding topics and upgrade Mimosa to both a teaching and assessment tool. 
+Mimosa is a holistic web application tool that seeks to test users on their offensive and defensive skills relating to programming, to not only educate users on secure coding but to also inculcate good programming habits.How Mimosa works is that challenges from various categories are provided to users in which they will be awarded points upon completion. These challenges come from a wide range of categories, from access control to cryptography, all requiring users to employ different techniques to solve them. Users can also earn badges when they complete challenges which motivate them to work harder to solve more challenges. Mimosa gamifies the user experience and has an intuitive interface. Challenges are also made to be fun with gamification elements to make it more fun for learners. We will also be incorporating short videos to teach some of the secure coding topics and upgrade Mimosa to both a teaching and assessment tool. We will also be publishing challenge creation vides soon.
 </p>
 
+
+<h2>Contributing to Mimosa</h2>
+<p>Involvement in the development and promotion of <b>Mimosa</b2> is welcome! </p>
+
+
+<p> Some of the ways you can contribute are as follows:</p>
+<ul>
+<li>Try it out!<li>
+<li>Submit feedback via Github issues</li>
+<li>Create Challenges and submit pull requests</li>  
+</ul>
+  
 <!--
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this texthould be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
