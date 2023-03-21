@@ -22,7 +22,7 @@ Mimosa is a holistic web application tool that seeks to test users on their offe
 
 
 <h2>Contributing to Mimosa</h2>
-<p>Involvement in the development and promotion of <b>Mimosa</b2> is welcome! </p>
+<p>Involvement in the development and promotion of <b>Mimosa</b> is welcome! </p>
 
 
 <p> Some of the ways you can contribute are as follows:</p>
