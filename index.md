@@ -8,6 +8,7 @@ type: tool
 pitch: A very brief, one-line description of your project
 
 ---
+<img src="/assets/images/mimosa.png" alt="Mimosa logo">
 
 <h2>Description</h2>
 <p>
