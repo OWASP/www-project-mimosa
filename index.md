@@ -5,7 +5,7 @@ title: OWASP Mimosa
 tags: 
 level: 2
 type: tool
-pitch: A very brief, one-line description of your project
+pitch: Mimosa, your companion to learn secure coding
 
 ---
 <img width='100' height='100' src="https://raw.githubusercontent.com/OWASP/www-project-mimosa/main/assets/images/mimosa.png" alt="Mimosa logo">
