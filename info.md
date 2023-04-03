@@ -8,6 +8,8 @@
 
 ### Code Repository
 * [Repo](https://github.com/OWASP/mimosa)
+
+### Challenge Creation
 * [Challenge Creation Video Guide](https://youtu.be/jvc9Ps0xtV0)
 
 ### Change Log
