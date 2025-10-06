@@ -1,0 +1,31 @@
+audience:
+  - builder
+leaders:
+  - name: Jin Kiat Low
+    email: jklow79@yahoo.com
+    github: jklow
+  - name: Wei Liang Kuah
+  - name: Chin Heng
+  - name: Ryan Rui Jie Goh
+  - name: Xuan Inn Danzel Tan
+    email: shagrirse@gmail.com
+level: 2
+license:
+  - GPL-3.0
+name: OWASP Mimosa
+pitch: Mimosa, your companion to learn secure coding
+repositories:
+  - name: www-project-mimosa
+    url: https://github.com/OWASP/www-project-mimosa
+    description: OWASP Foundation Web Repository
+  - name: mimosa
+    url: https://github.com/OWASP/mimosa
+  - name: mimosa
+    url: https://github.com/securecoding-mimosa/mimosa
+    description: Public opensource mimosa
+tags:
+  - custom-tag
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-mimosa
